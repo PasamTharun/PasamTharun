@@ -20,47 +20,29 @@
 - 👯 I’m looking to collaborate with open-source enthusiasts and developers.
 - 🥅 2024 Goals: Learn DevOps and strengthen DSA.
 - 🧑‍💻 GirlScrip Summer Of Code Contributor.
-
+- 
+<div align="center"> 
+  <a href="mailto:tpasamtharun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/pasam-tharun-07b104288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/PasamTharun" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <br>
 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/python/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/dea77b01-552a-4459-9c5a-b1c88f16a93e" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/56dd0b2f-f524-4de5-b78c-b861b9683a28" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/google-cloud-platform-tutorial/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4c87dbaa-c250-4514-8be7-d7368af30909" alt="GoogleCloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-</a>
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git," /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 </p>
 
